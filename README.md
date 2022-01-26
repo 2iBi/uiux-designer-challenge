@@ -10,5 +10,6 @@ Estás livre de utilizar qualquer tecnologia / ferramenta, técnica para a elabo
 
 Assim que finalizar, nos avise pelo e-mail devchallenge@2iBi.com com:
 * Titulo: **[UI/UX Designer Challenge] Teu Nome**;
+* Links da plataforma com os desenhos (wireframes) feitos;
 * Anexo em PDF com os desenhos (wireframes);
 * Informações sobre ti: Github, LinkedIn entre outras informações que consideras importantes.
